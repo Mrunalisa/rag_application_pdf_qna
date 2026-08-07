@@ -1,0 +1,5 @@
+PyMuPDF==1.24.10
+qdrant-client==1.10.1
+sentence-transformers==3.0.1
+python-dotenv==1.0.1
+requests==2.32.3
