@@ -3,6 +3,12 @@
 A simple Retrieval-Augmented Generation app that answers questions from a set
 of PDF documents, with mandatory citations (document, page, snippet).
 
+https://github.com/user-attachments/assets/670a2740-71a8-4d43-847c-62a4fc3ff39c
+
+<img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/294c7b36-d281-4d29-8d6e-1a00936d8284" />
+
+<img width="1917" height="978" alt="image" src="https://github.com/user-attachments/assets/061e9c37-1e66-4eef-be7d-1e3684a5eb0e" />
+
 ## Architecture
 
 ```
